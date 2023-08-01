@@ -86,7 +86,7 @@ class SignupActivity : AppCompatActivity() {
             val password = binding.passwordEditText.text.toString()
             when {
                 name.isEmpty() -> {
-                    binding.nameEditTextLayout.error = "Masukkan email"
+                    binding.nameEditTextLayout.error
                 }
                 email.isEmpty() -> {
                     binding.emailEditTextLayout.error = "Masukkan email"

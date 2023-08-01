@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Story App</string>
+    <string name="title_login_page">Sudah siap untuk membaca cerita pengalaman alumni dicoding?</string>
+    <string name="message_login_page">Masukkan dulu datamu ya</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Masuk</string>
+    <string name="copyright">A066DSY2297</string>
+    <string name="title_signup_page">Lengkapi data dirimu di bawah ini ya</string>
+    <string name="name">Nama</string>
+    <string name="signup">Daftar</string>
+    <string name="menu1">Logout</string>
+    <string name="menu2">Add Story</string>
+    <string name="user">User Name</string>
+    <string name="upload">UNGGAH</string>
+    <string name="gallery">GALERI</string>
+    <string name="camera">KAMERA</string>
+    <string name="des">DESCRIPSI</string>
+    <string name="maps">Maps</string>
+    <string name="title_activity_maps">MapsActivity</string>
+</resources>
